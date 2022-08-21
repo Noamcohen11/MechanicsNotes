@@ -1,0 +1,117 @@
+{
+  "main": {
+    "id": "696d2b03f2471d2d",
+    "type": "split",
+    "children": [
+      {
+        "id": "3870d170a2a8868f",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "הערות/הערות לעצמי ללמידה למתפ 2.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "abce3499a6e33121",
+    "type": "split",
+    "children": [
+      {
+        "id": "0d44cdb21555927f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "26fc9f1f386d8f1b",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "7e87b0807ac42134",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "79e8b663a8cdf811",
+    "type": "split",
+    "children": [
+      {
+        "id": "65e620f1c9171d2a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0a176924655c17b2",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "הערות/הערות לעצמי ללמידה למתפ 2.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "3f32132478ba9aba",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b21c6152561cdeb8",
+            "type": "leaf",
+            "state": {
+              "type": "map-of-content",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "3870d170a2a8868f",
+  "lastOpenFiles": [
+    "coding/כלי פייתון לגרפים.md",
+    "math/כלים מתמטיים בסיסיים.md",
+    "פיזיקה 101.md",
+    "math/מערכות צירים.md",
+    "math/ההגדרה של מרחק.md",
+    "images/Q1 graph.png",
+    "Figure_1.png.md",
+    "Figure_1.centerImg.md",
+    "Recording 20220625182330.webm",
+    "הקדמה מתמטית.md"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "legacyEditor": false,
+  "livePreview": true,
+  "rightToLeft": true,
+  "spellcheckLanguages": [
+    "en-US",
+    "he"
+  ],
+  "fileSortOrder": "alphabetical",
+  "promptDelete": false,
+  "pdfExportSettings": {
+    "pageSize": "Letter",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 100
+  },
+  "spellcheck": true,
+  "alwaysUpdateLinks": true,
+  "attachmentFolderPath": "images"
+}
